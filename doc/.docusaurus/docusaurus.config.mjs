@@ -7,7 +7,7 @@ export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
   "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "baseUrl": "/scaling-plugin/doc/build/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
