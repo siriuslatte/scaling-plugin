@@ -1,0 +1,12 @@
+# Project place file
+/scale-tools.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Node modules
+/documentation/node_modules
+
+# Node modules
+/doc/node_modules

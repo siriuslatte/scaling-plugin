@@ -1,0 +1,14 @@
+{
+  "name": "Scale Plugin",
+  "globIgnorePaths": ["**/*.spec.lua"],
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$path": "src",
+
+      "$ignoreUnknownInstances": true
+    }
+  }
+}

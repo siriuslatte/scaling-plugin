@@ -1,0 +1,20 @@
+{
+    "name": "Scale Plugin",
+    "tree": {
+        "$className": "DataModel",
+        
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "$ignoreUnknownInstances": true,
+
+            "Scale Plugin": {
+                "$path": "src",
+                "$ignoreUnknownInstances": true,
+                "Scale Plugin.spec": {
+                    "$path": "test/Scale Plugin.spec.lua",
+                    "$ignoreUnknownInstances": true
+                }
+            }
+        }
+    }
+}
